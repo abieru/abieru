@@ -3,7 +3,8 @@
 <!-- info -->
 <p align:"center">
 
-    Hi, my name is Abiel am i am software developer. i love learn new technologies, or more about how write better code. ✌️
+    Hi, my name is Abiel am i am software developer. 
+    I love learn new technologies, or more about how write better code. ✌️
 
     Actually  i am currently working with Spring Boot (Java) Angular 9+ and AngularJS.
 
