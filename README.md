@@ -51,7 +51,6 @@
 
 </div>
 <br>
-<br>
 
 <h2 style="color:#44AEFB">
     ⚙️ Tools
@@ -93,13 +92,10 @@
 <br>
 
 <div class="stats" align="center"> 
+    
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@abiel/ead955b8-3a7e-44e2-bcde-fb7d65b62fcc.png" /></a>
 
-[![abieru](https://github-readme-stats.vercel.app/api/top-langs/?username=abieru&hide=html&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@abiel/e1301af2-d591-4690-9101-4df518169dca.png" /></a>
 
 </div>
 
-<!-- 
-[![card](https://github-readme-stats.vercel.app/api?username=abieru&theme=default&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abieru)](https://git.io/streak-stats)
--->
