@@ -93,13 +93,12 @@
 <br>
 
 <div class="stats" align="center"> 
+[![abieru](https://github-readme-stats.vercel.app/api/top-langs/?username=abieru&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
 <!-- 
 [![card](https://github-readme-stats.vercel.app/api?username=abieru&theme=default&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=abieru)](https://git.io/streak-stats)
 -->
-
-
-[![abieru](https://github-readme-stats.vercel.app/api/top-langs/?username=abieru&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
