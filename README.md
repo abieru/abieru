@@ -18,15 +18,15 @@
 
 <!-- lang -->
 
-<h2 style="color:#44AEFB">
+<h3 style="color:#44AEFB">
     ⚙️ Programing Languages
-</h2>
+</h3>
 
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
 
-<div align="center">
+<div>
     <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
         <img  alt="Java" height="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
     </a>
@@ -45,10 +45,10 @@
 
 </div>
 
-<h2 style="color:#44AEFB">
+<h3 style="color:#44AEFB">
     ⚙️ Tools
-</h2>
-<div align="center">
+</h3>
+<div>
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img alt="Spring" height="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
     </a>
