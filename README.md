@@ -4,9 +4,13 @@
 <p align:"center">
 
     Hi, my name is Abiel am i am software developer. 
-    I love learn new technologies, or more about how write better code. ✌️
-
-    Actually  i am currently working with Spring Boot (Java) Angular 9+ and AngularJS.
+    I love learn new technologies and more about how write better code
+    Skills:
+    - Backend 👨‍💻: Spring Boot, Java 8, 11
+    - Frontend 🖼️: Angular 15+, AngularJS, TypeScript
+    - Databases 📚: PostgresQL, Firebird 2.5
+    - Another skills ⚙️: Docker, kibana, GraphQL, Swagger, Jasper, Maven, Jenkins, tomcat, nginx
+    - Other programing languages: Python, Go
 
 <br>
 <!-- contact -->
