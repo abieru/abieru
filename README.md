@@ -3,7 +3,7 @@
 <!-- info -->
 <p align:"center">
 
-    Hi, my name is Abiel am i am software developer. 
+    Hi, my name is Abiel i am software developer. 
     I love learn new technologies and more about how write better code
     Skills:
     - Backend 👨‍💻: Spring Boot, Java 8, 11
