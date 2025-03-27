@@ -6,10 +6,10 @@
     Hi, my name is Abiel, i am software developer. 
     I love learn new technologies and more about how write better code
     Skills:
-    - Backend 👨‍💻: Spring Boot, Java 8, 11
+    - Backend 👨‍💻: Spring Boot, Java 8, 11, 21
     - Frontend 🖼️: Angular 15+, AngularJS, TypeScript
     - Databases 📚: PostgresQL, Firebird 2.5
-    - Another skills ⚙️: Docker, kibana, GraphQL, Swagger, Jasper, Maven, Jenkins, tomcat, nginx
+    - Another skills ⚙️: Docker, Spring AI, kibana, GraphQL, Swagger, Jasper, Maven, Jenkins, tomcat, nginx
     - Other programing languages: Python, Go
 
 <br>
