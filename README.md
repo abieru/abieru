@@ -29,7 +29,7 @@
 ###
 
 <div align="center">
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abieru&theme=dracula&card_width=450&card_height=170" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abieru&theme=dracula&card_width=450&card_height=170" alt="GitHub Streak" /></a>
 </div>
 
 ###
